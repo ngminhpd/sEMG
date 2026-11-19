@@ -1,0 +1,4 @@
+Change Pin Designator/Name:  Old Designator=U2C-8 Old Name=VOUTC New Designator =VOUTD New Name=14
+Change Pin Designator/Name:  Old Designator=U2C-9 Old Name=VINC- New Designator =VIND- New Name=13
+Change Pin Designator/Name:  Old Designator=U2D-14 Old Name=VOUTD New Designator =VOUTC New Name=8
+Change Pin Designator/Name:  Old Designator=U2D-13 Old Name=VIND- New Designator =VINC- New Name=9

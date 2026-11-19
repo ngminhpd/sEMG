@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=C18 Old Footprint=WCAP-ATG5_D5H11 New Footprint=WCAP-ATG5_D5H11
+Change Component Footprint: Designator=C19 Old Footprint=WCAP-ATG5_D5H11 New Footprint=WCAP-ATG5_D5H11
+Change Component Footprint: Designator=C20 Old Footprint=WCAP-ATG5_D5H11 New Footprint=WCAP-ATG5_D5H11
+Change Component Footprint: Designator=C23 Old Footprint=WCAP-ATG5_D5H11 New Footprint=WCAP-ATG5_D5H11
+Change Component Footprint: Designator=C24 Old Footprint=WCAP-ATG5_D5H11 New Footprint=WCAP-ATG5_D5H11
+Change Component Footprint: Designator=C14 Old Footprint=WCAP-ATG8_D5H11 New Footprint=WCAP-ATG8_D5H11
+Change Component Footprint: Designator=C15 Old Footprint=WCAP-PTG5_D8H11.5 New Footprint=WCAP-PTG5_D8H11.5
+Change Component Comment: Designator=C2 Old Comment=4.7nF New Comment=4.7nF 
+Change Pin Designator/Name:  Old Designator=U3A-1 Old Name=VOUTA New Designator =VIND- New Name=13
+Change Pin Designator/Name:  Old Designator=U3A-2 Old Name=VINA- New Designator =VOUTD New Name=14
+Change Pin Designator/Name:  Old Designator=U3D-14 Old Name=VOUTD New Designator =VOUTA New Name=1
+Change Pin Designator/Name:  Old Designator=U3D-13 Old Name=VIND- New Designator =VINA- New Name=2
